@@ -1,4 +1,5 @@
 <?php
+require 'scrapers/DefaultScraper.php';
 class Scraper {
 	public $urls = array();
 	
